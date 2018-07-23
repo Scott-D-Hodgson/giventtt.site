@@ -1,0 +1,11 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        {{ partial "jquery.html" . }}
+        {{ partial "bootstrap.html" . }}
+        <title>{{ .Title }}</title>
+    </head>
+    <body>
+        {{ .Content }}
+    </body>
+</html>
