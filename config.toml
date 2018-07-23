@@ -1,0 +1,5 @@
+theme = "bootstrap"
+baseURL = "http://example.org/"
+languageCode = "en-ca"
+title = "Given These Then That"
+MetaDataFormat = "toml"
